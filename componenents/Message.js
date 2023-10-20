@@ -9,13 +9,19 @@ class Message extends Component {
         }
     }
 
+    changeMessage() {
+        this.setState({
+            message: 'Welcome to Earth'
+        })
+    }
+
     render() {
         return (
             <div>
                 <h1>
                 {this.state.message}
             </h1>
-            <button>Press</button>
+            <button onClick={() => this.changeMessage()}>Press the button</button>
             </div>
         )
     }
