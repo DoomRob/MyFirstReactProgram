@@ -25,7 +25,7 @@ function App() {
       </Greet> */}
       {/* <Greet name="Diana" heroName="Wonder Women"></Greet> */}
       {/* <Welcome name="Bruce" heroName="Batman" /> */}
-      {/*<Welcome name="Clark" heroName="Superman" /> */}
+      {/*<Welcome name="Clark" heroName="Superman" /> */} 
       {/*<Welcome name="Diana" heroName="Wonder Women" /> */}
       {/* <Hello /> */}
     </div>
