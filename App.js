@@ -17,12 +17,8 @@ function App() {
       {/*<FunctionClick />*/}
       {/*<Counter />*/}
       {// <Message />}
-      {/*<Greet name="Bruce" heroName="Batman">
-        <p>This childrens props</p>
-      </Greet>*/}
-      {/*<Greet name="Clark" heroName="Superman">
-        <button>Action</button>
-      {/*</Greet> */}
+      {/*<Greet name="Bruce" heroName="Batman"> <p>This childrens props</p> </Greet>*/}
+      {/*<Greet name="Clark" heroName="Superman"> <button>Action</button> </Greet> */}
       {/* <Greet name="Diana" heroName="Wonder Women"></Greet> */}
       {/* <Welcome name="Bruce" heroName="Batman" /> */}
       {/*<Welcome name="Clark" heroName="Superman" /> */} 
