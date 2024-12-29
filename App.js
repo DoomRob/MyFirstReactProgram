@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Greet from './componenents/Greet'
-import Welcome from './componenents/Welcome'
-import Hello from './componenents/Hello'
-import Message from './componenents/Message'
-import Counter from './components/Counter'
+import Greet from './componenents/Greet';
+import Welcome from './componenents/Welcome';
+import Hello from './componenents/Hello';
+import Message from './componenents/Message';
+import Counter from './components/Counter';
 import FunctionClick from './components/FunctionClick';
 import ClassClick from './components/ClassClick';
 import EventBind from './components/EventBind';
